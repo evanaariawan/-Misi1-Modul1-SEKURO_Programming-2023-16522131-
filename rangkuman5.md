@@ -6,13 +6,13 @@
 
         `git init `
 
-        ![Sreenshot](git_init.PNG)
+        ![Sreenshot](ss/git_init.PNG)
 
     - Menambahkan file kemudian menambahkannya ke stagging area
 
         ` git status `
 
-        ![Sreenshot](git_status.PNG)
+        ![Sreenshot](ss/git_status.PNG)
 
         ` git add filename `
 
@@ -20,10 +20,10 @@
 
         ` git commit -m "Message" `
 
-        ![Sreenshot](git_add.PNG)
+        ![Sreenshot](ss/git_add.PNG)
 
     - Melihat perubahan yang terjadi pada repo kita
 
         ` git log `
 
-        ![Sreenshot](git_log.PNG)
+        ![Sreenshot](ss/git_log.PNG)
